@@ -1,6 +1,6 @@
 {
-  "version": "9.3",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.3/RGOptimizer_v9.3_Setup.exe",
-  "sig": "DDKL/HpeDvEOWx9prVYiB9fVB64oGASEeoMDuts7pfaJrpXW0HPtVZIoKUylxAM9miA0mz+IMrA2XT7XjhFTAw==",
-  "notes": "\"Mejoras y actualización obligatoria\""
+  "version": "9.4",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.4/RGOptimizer_v9.4_Setup.exe",
+  "sig": "QJo5LMTUIscjOKeulG/ZrcDilYCy5JDXOW6cA/jIT46Xi5VHNIkOXDH+vhABA+C/zHcOPH37hCnKkfbeUvZ5AA==",
+  "notes": "Mejoras"
 }
