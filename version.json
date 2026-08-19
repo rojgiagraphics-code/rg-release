@@ -1,6 +1,6 @@
 {
-  "version": "9.7",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.7/RGOptimizer_Setup.exe",
-  "sig": "DuIxuvFVhHoaBt1w4+EDFfPCxtKCCUoJa7FprhkxMQxSwoGOqtpPf62CeeXq5bXuJddPE2WSzE35w2+XLhZYBg==",
-  "notes": "Correcciones de estabilidad y detección de hardware"
+  "version": "9.8",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.8/RGOptimizer_Setup.exe",
+  "sig": "GOgzqEC3XJ/kW7mT/tNbz+05LrejmrE0Idq4VYfWWTC5Y1O/sCfh0k+jScxywlBFt0zx06mDp5tQ9AB/wI8SAw==",
+  "notes": "Arreglado: al abrirlo desde la bandeja la ventana salia vacia"
 }
