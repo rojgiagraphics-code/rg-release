@@ -1,6 +1,6 @@
 {
-  "version": "9.6",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.6/RGOptimizer_Setup.exe",
-  "sig": "G6fiUgKXD4bijuC/IF5I1s2xlwZOVRZZIowmQ9lxwwZQ1NGSnst4m7Rlei25oE1PyX//EZlkQUpUJ1L3tQq+Cw==",
+  "version": "9.7",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.7/RGOptimizer_Setup.exe",
+  "sig": "DuIxuvFVhHoaBt1w4+EDFfPCxtKCCUoJa7FprhkxMQxSwoGOqtpPf62CeeXq5bXuJddPE2WSzE35w2+XLhZYBg==",
   "notes": "Correcciones de estabilidad y detección de hardware"
 }
