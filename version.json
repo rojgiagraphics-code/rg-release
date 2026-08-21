@@ -1,6 +1,6 @@
 {
-  "version": "9.11",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.11/RGOptimizer_Setup.exe",
-  "sig": "8Gq31d0dHGfvW81BPUUTW8dmJgDJMO8mKcMNbhQtGiOq4UIJsFwq31iQGkH22aV6Nc/jZamikMJqdBVCmmzBAA==",
-  "notes": "Los interruptores ya dicen su estado de verdad, el limpiar RAM no toca tu juego y hay un vigilante de memoria conservador"
+  "version": "9.12",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.12/RGOptimizer_Setup.exe",
+  "sig": "aDrq64Q+a/TEfrAu9Bx7W5GqeQpFxJcJHVh+/nIIaWf2ri2bM5roUgnlb7DTVlMMixA02kZVx2JlDe+GUkDSDg==",
+  "notes": "El programa ya sabe cuantas pantallas tienes, y sabe devolverte la segunda si se te fue al optimizar"
 }
