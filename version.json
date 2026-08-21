@@ -1,6 +1,6 @@
 {
-  "version": "9.12",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.12/RGOptimizer_Setup.exe",
-  "sig": "aDrq64Q+a/TEfrAu9Bx7W5GqeQpFxJcJHVh+/nIIaWf2ri2bM5roUgnlb7DTVlMMixA02kZVx2JlDe+GUkDSDg==",
-  "notes": "El programa ya sabe cuantas pantallas tienes, y sabe devolverte la segunda si se te fue al optimizar"
+  "version": "9.13",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.13/RGOptimizer_Setup.exe",
+  "sig": "PQpUL4knNoHowv+FMpfntrtnfnS4vPn2rtxxTlnxxxAUS5KmYbAJyg5Y/qThX3xEAn7+V3hBT7JcVCGmeP1tCA==",
+  "notes": "Reparar ya no te deja en Equilibrado, y el compositor de Windows deja de asfixiarse: tus otras pantallas no se congelan"
 }
