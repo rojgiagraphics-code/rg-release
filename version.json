@@ -1,6 +1,6 @@
 {
-  "version": "9.10",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.10/RGOptimizer_Setup.exe",
-  "sig": "qPpN64DB7CNqIX4Go9qWr4acPFVXoKMq2J34gCL8NQa0tMjvFVH5k1GJ87PQRSctSweyO/53D5ej8w9zgvFnAg==",
-  "notes": "Gaming Online ya no toca los ajustes de tus juegos, modo streaming respetado en FiveM y Reparar dice cuantas faltan de verdad"
+  "version": "9.11",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.11/RGOptimizer_Setup.exe",
+  "sig": "8Gq31d0dHGfvW81BPUUTW8dmJgDJMO8mKcMNbhQtGiOq4UIJsFwq31iQGkH22aV6Nc/jZamikMJqdBVCmmzBAA==",
+  "notes": "Los interruptores ya dicen su estado de verdad, el limpiar RAM no toca tu juego y hay un vigilante de memoria conservador"
 }
