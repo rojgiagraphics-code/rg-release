@@ -1,6 +1,6 @@
 {
-  "version": "9.9",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.9/RGOptimizer_Setup.exe",
-  "sig": "1VrTAIob2NWgLUuCU1k3tJDIF1OH5uFUFULXTJ86GHQKXTZTly8U5REZ1dYjGqAhKPoNfURybyw1w7ST4ntFAg==",
-  "notes": "Limpiador con avisos, interfaz repasada y reverts que ya no pisan otros ajustes"
+  "version": "9.10",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.10/RGOptimizer_Setup.exe",
+  "sig": "qPpN64DB7CNqIX4Go9qWr4acPFVXoKMq2J34gCL8NQa0tMjvFVH5k1GJ87PQRSctSweyO/53D5ej8w9zgvFnAg==",
+  "notes": "Gaming Online ya no toca los ajustes de tus juegos, modo streaming respetado en FiveM y Reparar dice cuantas faltan de verdad"
 }
