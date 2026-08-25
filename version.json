@@ -1,6 +1,6 @@
 {
-  "version": "9.19",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.19/RGOptimizer_Setup.exe",
-  "sig": "wjma70EdJtoFqAUqdR9t8Y2lElJJicdPFmUg1ozJmkPSZjdVe2TBjLcKUSnbsnxhF15Iwc77jKljPZByLeRaBw==",
-  "notes": "El grabador mide el juego y no el lanzador, y el PoolSize de FiveM se escribe de verdad en instalaciones nuevas"
+  "version": "9.20",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.20/RGOptimizer_Setup.exe",
+  "sig": "Z0flBz7ln1QddBtoW95lACdbluNwskhSKJOf8NtJs7WJTjHxfbAXg6QUr0Y8+BKfKf66VrDAgCDQ6SlOJjXjBQ==",
+  "notes": "El arreglo del modo MSI ahora si puede reparar una grafica que no arranca"
 }
