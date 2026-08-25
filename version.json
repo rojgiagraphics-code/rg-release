@@ -1,6 +1,6 @@
 {
-  "version": "9.18",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.18/RGOptimizer_Setup.exe",
-  "sig": "XMBLlTvaSAIbWzTY4E6vlp1a0TCegXriBvUWoNxaRgBlsQHzsNdFZkLvJDNR5QP9qTLKMwb5MnYSwFYXRtEmDg==",
-  "notes": "La segunda pantalla se puede recuperar aunque ya haya desaparecido, y el i5-12400 deja de tratarse como CPU de nucleos desiguales"
+  "version": "9.19",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.19/RGOptimizer_Setup.exe",
+  "sig": "wjma70EdJtoFqAUqdR9t8Y2lElJJicdPFmUg1ozJmkPSZjdVe2TBjLcKUSnbsnxhF15Iwc77jKljPZByLeRaBw==",
+  "notes": "El grabador mide el juego y no el lanzador, y el PoolSize de FiveM se escribe de verdad en instalaciones nuevas"
 }
