@@ -1,6 +1,6 @@
 {
-  "version": "9.15",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.15/RGOptimizer_Setup.exe",
-  "sig": "t4Q6xBjSm1tzojpKWDl+Jx0Y4XZjK70L0J7vW1star9u/hQnEM8AOEU1lN1go3m3+eMzZqIRjDqEhnwLJakEAQ==",
-  "notes": "La revocacion de licencias vuelve a funcionar: la lista vive en el repo, no en el servidor caido"
+  "version": "9.16",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.16/RGOptimizer_Setup.exe",
+  "sig": "xpBg5mln1AnCPk74qY7H0hubAYzA+tdVP4LmvJWbSk5tTrZAXfCBtSiCjYa6f1K1RtvbX5lnccaDZIgwVVa8Cw==",
+  "notes": "Las copias del registro ya se pueden restaurar, y el Limpiador respeta el modo screenshare"
 }
