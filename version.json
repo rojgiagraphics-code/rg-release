@@ -1,6 +1,6 @@
 {
-  "version": "9.17",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.17/RGOptimizer_Setup.exe",
-  "sig": "eJOoGl2jl+C5+QatnNMtBWkkLWVkLTCRxICOyN5NZijJgEGUqe6YOcCXoQARHu666vRZ20zTixv5CRRAVsb8Ag==",
-  "notes": "Los instaladores de actualizaciones ya no se quedan ocupando sitio en la carpeta temporal"
+  "version": "9.18",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.18/RGOptimizer_Setup.exe",
+  "sig": "XMBLlTvaSAIbWzTY4E6vlp1a0TCegXriBvUWoNxaRgBlsQHzsNdFZkLvJDNR5QP9qTLKMwb5MnYSwFYXRtEmDg==",
+  "notes": "La segunda pantalla se puede recuperar aunque ya haya desaparecido, y el i5-12400 deja de tratarse como CPU de nucleos desiguales"
 }
