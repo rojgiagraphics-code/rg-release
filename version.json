@@ -1,6 +1,6 @@
 {
-  "version": "9.14",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.14/RGOptimizer_Setup.exe",
-  "sig": "aZHHu+VEQ6vJU/UPZnYgMMrBbh1/uNeJUBqbDpWhiYEKoVDOjRdPlidEQMbfi759yvAvAfJtFTUo1t4FFfyVCQ==",
-  "notes": "Aviso del Modo Juego con arreglo, grabadora de sesion y consejos de ajustes del juego segun tu equipo"
+  "version": "9.15",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.15/RGOptimizer_Setup.exe",
+  "sig": "t4Q6xBjSm1tzojpKWDl+Jx0Y4XZjK70L0J7vW1star9u/hQnEM8AOEU1lN1go3m3+eMzZqIRjDqEhnwLJakEAQ==",
+  "notes": "La revocacion de licencias vuelve a funcionar: la lista vive en el repo, no en el servidor caido"
 }
