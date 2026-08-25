@@ -1,6 +1,6 @@
 {
-  "version": "9.13",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.13/RGOptimizer_Setup.exe",
-  "sig": "PQpUL4knNoHowv+FMpfntrtnfnS4vPn2rtxxTlnxxxAUS5KmYbAJyg5Y/qThX3xEAn7+V3hBT7JcVCGmeP1tCA==",
-  "notes": "Reparar ya no te deja en Equilibrado, y el compositor de Windows deja de asfixiarse: tus otras pantallas no se congelan"
+  "version": "9.14",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.14/RGOptimizer_Setup.exe",
+  "sig": "aZHHu+VEQ6vJU/UPZnYgMMrBbh1/uNeJUBqbDpWhiYEKoVDOjRdPlidEQMbfi759yvAvAfJtFTUo1t4FFfyVCQ==",
+  "notes": "Aviso del Modo Juego con arreglo, grabadora de sesion y consejos de ajustes del juego segun tu equipo"
 }
