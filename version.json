@@ -1,6 +1,6 @@
 {
-  "version": "9.23",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.23/RGOptimizer_Setup.exe",
-  "sig": "CtqqXemAzjnPG6SoWlAHidEV8HRw5wvUnA75yhaEn0eCC7ObpWmVmOs7Gh+RkDbmVeb3OiXL4orUSj4a8AhZCA==",
-  "notes": "Analizador de dispositivos de Windows y reparacion con DISM y SFC"
+  "version": "9.24",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.24/RGOptimizer_Setup.exe",
+  "sig": "mdmEtUketAZrsWympAZWByRcUH+uv7tGgRw0+AtuZleyhs8P3Fb7QlpMXEAk0WBa9UVzuNJm/fFKUMRmRFsGBw==",
+  "notes": "Los ajustes de latencia de NVIDIA ya se deshacen al revertir, y Reparar Windows tiene barra de progreso y esta en el Inicio"
 }
