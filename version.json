@@ -1,6 +1,6 @@
 {
-  "version": "9.27",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.27/RGOptimizer_Setup.exe",
-  "sig": "meVB6rVr9y3bYe9ypC64wbOgfKcSeO3FaLCLmRtOK6nCoH+gCOP/OkSGgO7teSovZ1AT3NJNy49lwSIoTMweDw==",
-  "notes": "Los globos de ayuda ya no son los de Windows: oscuros, redondeados y con tiempo para leerlos"
+  "version": "9.28",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.28/RGOptimizer_Setup.exe",
+  "sig": "hHJ94iwtvWPkNfB31l2S+QT0+nElCxHoT23qV+H3Hrw4Zi6ZHbZSsNzfs756xNFvg2Tgf87MTRcBfwiaKzSRBQ==",
+  "notes": "El diagnostico ya lee la medicion de FPS y la cruza con lo que el propio programa dejo puesto"
 }
