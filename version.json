@@ -1,6 +1,6 @@
 {
-  "version": "9.22",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.22/RGOptimizer_Setup.exe",
-  "sig": "5j9oUmJAjBW/Abks0J36vIfN0nCd3xFP2NczBH493HYMAG3z/bMg+D5oAxWhWhxSZnJ9rB/rk1kQnxN4h6TmAw==",
-  "notes": "Ninguna tarea de perfil se salta ya su guarda de hardware: el pagefile fijo y el apagado de VBS del emulador se colaban"
+  "version": "9.23",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.23/RGOptimizer_Setup.exe",
+  "sig": "CtqqXemAzjnPG6SoWlAHidEV8HRw5wvUnA75yhaEn0eCC7ObpWmVmOs7Gh+RkDbmVeb3OiXL4orUSj4a8AhZCA==",
+  "notes": "Analizador de dispositivos de Windows y reparacion con DISM y SFC"
 }
