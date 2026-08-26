@@ -1,6 +1,6 @@
 {
-  "version": "9.24",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.24/RGOptimizer_Setup.exe",
-  "sig": "mdmEtUketAZrsWympAZWByRcUH+uv7tGgRw0+AtuZleyhs8P3Fb7QlpMXEAk0WBa9UVzuNJm/fFKUMRmRFsGBw==",
-  "notes": "Los ajustes de latencia de NVIDIA ya se deshacen al revertir, y Reparar Windows tiene barra de progreso y esta en el Inicio"
+  "version": "9.25",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.25/RGOptimizer_Setup.exe",
+  "sig": "xxlWstc7bmNdJ0Jhh/iBd+zrIT9YCmnM3cRBJ9fCFNALO0GP8eQHiPhgRrT5kJBPV6tetgpXRTdu38sIHaW6DQ==",
+  "notes": "El programa ya sabe decir por que se apaga la pantalla, y ensena lo que contesta Windows al reparar"
 }
