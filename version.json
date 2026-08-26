@@ -1,6 +1,6 @@
 {
-  "version": "9.25",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.25/RGOptimizer_Setup.exe",
-  "sig": "xxlWstc7bmNdJ0Jhh/iBd+zrIT9YCmnM3cRBJ9fCFNALO0GP8eQHiPhgRrT5kJBPV6tetgpXRTdu38sIHaW6DQ==",
-  "notes": "El programa ya sabe decir por que se apaga la pantalla, y ensena lo que contesta Windows al reparar"
+  "version": "9.26",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.26/RGOptimizer_Setup.exe",
+  "sig": "KPGX0RQWG90RGS7p9VXnq2I26cbaKqfJBSbM1wpAwHx+lp9ovf/jK7mnyFu/g1CxCFW5OzWbNF+vw7Qy8Du7DA==",
+  "notes": "Mide los FPS de verdad con PresentMon: FPS medio, 1% bajo y quien manda, si la CPU o la grafica"
 }
