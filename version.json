@@ -1,6 +1,6 @@
 {
-  "version": "9.26",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.26/RGOptimizer_Setup.exe",
-  "sig": "KPGX0RQWG90RGS7p9VXnq2I26cbaKqfJBSbM1wpAwHx+lp9ovf/jK7mnyFu/g1CxCFW5OzWbNF+vw7Qy8Du7DA==",
-  "notes": "Mide los FPS de verdad con PresentMon: FPS medio, 1% bajo y quien manda, si la CPU o la grafica"
+  "version": "9.27",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.27/RGOptimizer_Setup.exe",
+  "sig": "meVB6rVr9y3bYe9ypC64wbOgfKcSeO3FaLCLmRtOK6nCoH+gCOP/OkSGgO7teSovZ1AT3NJNy49lwSIoTMweDw==",
+  "notes": "Los globos de ayuda ya no son los de Windows: oscuros, redondeados y con tiempo para leerlos"
 }
