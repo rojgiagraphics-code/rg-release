@@ -1,6 +1,6 @@
 {
-  "version": "9.21",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.21/RGOptimizer_Setup.exe",
-  "sig": "vHKRRUFy3xKL05G04+y50szT6AzdrUJsGenel3LfFBA7zxsv2kiO6fJLTCZG4fF5y6QqqGUbidJwYCZIPdO9Dg==",
-  "notes": "Auditoria: el pagefile fijo ya no se pone en disco mecanico, el modo streaming se respeta en todos los perfiles y el plan de energia deja de contradecirse"
+  "version": "9.22",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.22/RGOptimizer_Setup.exe",
+  "sig": "5j9oUmJAjBW/Abks0J36vIfN0nCd3xFP2NczBH493HYMAG3z/bMg+D5oAxWhWhxSZnJ9rB/rk1kQnxN4h6TmAw==",
+  "notes": "Ninguna tarea de perfil se salta ya su guarda de hardware: el pagefile fijo y el apagado de VBS del emulador se colaban"
 }
