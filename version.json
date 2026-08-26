@@ -1,6 +1,6 @@
 {
-  "version": "9.20",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.20/RGOptimizer_Setup.exe",
-  "sig": "Z0flBz7ln1QddBtoW95lACdbluNwskhSKJOf8NtJs7WJTjHxfbAXg6QUr0Y8+BKfKf66VrDAgCDQ6SlOJjXjBQ==",
-  "notes": "El arreglo del modo MSI ahora si puede reparar una grafica que no arranca"
+  "version": "9.21",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.21/RGOptimizer_Setup.exe",
+  "sig": "vHKRRUFy3xKL05G04+y50szT6AzdrUJsGenel3LfFBA7zxsv2kiO6fJLTCZG4fF5y6QqqGUbidJwYCZIPdO9Dg==",
+  "notes": "Auditoria: el pagefile fijo ya no se pone en disco mecanico, el modo streaming se respeta en todos los perfiles y el plan de energia deja de contradecirse"
 }
