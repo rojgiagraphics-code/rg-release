@@ -1,6 +1,6 @@
 {
-  "version": "9.28",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.28/RGOptimizer_Setup.exe",
-  "sig": "hHJ94iwtvWPkNfB31l2S+QT0+nElCxHoT23qV+H3Hrw4Zi6ZHbZSsNzfs756xNFvg2Tgf87MTRcBfwiaKzSRBQ==",
-  "notes": "El diagnostico ya lee la medicion de FPS y la cruza con lo que el propio programa dejo puesto"
+  "version": "9.29",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.29/RGOptimizer_Setup.exe",
+  "sig": "oC6byCPRiBs54nbAmsb+V4Mtw4xc4jWsOvTViX0U46uJlJOaiSOGFJMhX/ZNDz9qSBMPF7uFYhYdZ916G4BxBQ==",
+  "notes": "Utilidades: reparar red, reiniciar audio y video, elegir el DNS midiendo, e instalar apps con winget"
 }
