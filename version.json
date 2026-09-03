@@ -1,6 +1,6 @@
 {
-  "version": "9.30",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.30/RGOptimizer_Setup.exe",
-  "sig": "wNLAQvZ+etyRRhZIQ07vbyrt1RHXUBP5yqFoxBop1KZfCIA42ItxqlZ2Ex2D6wDOwazUmwgMqVYn+tzDgTy2Dg==",
-  "notes": "Servicios Xbox respetan su guarda, GameDVR_FSEBehavior con un solo dueno, y cinco comprobaciones que mentian por leer texto traducido de Windows"
+  "version": "9.31",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.31/RGOptimizer_Setup.exe",
+  "sig": "Fx9nrMfDi6IF7biOT+mDHYzoOj0c6uS/gV5TVdSr6Nj0VCkPjqf6O0386KDUmztO+zMPmdJ/11zNrKBPG73UDw==",
+  "notes": "Interfaz nueva en el Inicio, los avisos ya se pueden marcar y desaparecen, el marcador llega al 100 de verdad, y un boton para encender los servicios del anti-cheat"
 }
