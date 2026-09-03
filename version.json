@@ -1,6 +1,6 @@
 {
-  "version": "9.29",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.29/RGOptimizer_Setup.exe",
-  "sig": "oC6byCPRiBs54nbAmsb+V4Mtw4xc4jWsOvTViX0U46uJlJOaiSOGFJMhX/ZNDz9qSBMPF7uFYhYdZ916G4BxBQ==",
-  "notes": "Utilidades: reparar red, reiniciar audio y video, elegir el DNS midiendo, e instalar apps con winget"
+  "version": "9.30",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.30/RGOptimizer_Setup.exe",
+  "sig": "wNLAQvZ+etyRRhZIQ07vbyrt1RHXUBP5yqFoxBop1KZfCIA42ItxqlZ2Ex2D6wDOwazUmwgMqVYn+tzDgTy2Dg==",
+  "notes": "Servicios Xbox respetan su guarda, GameDVR_FSEBehavior con un solo dueno, y cinco comprobaciones que mentian por leer texto traducido de Windows"
 }
