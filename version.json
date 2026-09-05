@@ -1,6 +1,6 @@
 {
-  "version": "9.31",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.31/RGOptimizer_Setup.exe",
-  "sig": "Fx9nrMfDi6IF7biOT+mDHYzoOj0c6uS/gV5TVdSr6Nj0VCkPjqf6O0386KDUmztO+zMPmdJ/11zNrKBPG73UDw==",
-  "notes": "Interfaz nueva en el Inicio, los avisos ya se pueden marcar y desaparecen, el marcador llega al 100 de verdad, y un boton para encender los servicios del anti-cheat"
+  "version": "9.32",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.32/RGOptimizer_Setup.exe",
+  "sig": "Km5NXfmb5kxpruuxpnvoxn7SUMSX4Vd5vOm9OtdVW58QjKZGq01SgLzFHOCesBvAKsgYBAFzBy7cEuU7CdKGCQ==",
+  "notes": "Auto-Boost más seguro, optimizaciones de Windows 11 revisadas y renovación visual completa"
 }
