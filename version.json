@@ -1,6 +1,6 @@
 {
-  "version": "9.32",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.32/RGOptimizer_Setup.exe",
-  "sig": "Km5NXfmb5kxpruuxpnvoxn7SUMSX4Vd5vOm9OtdVW58QjKZGq01SgLzFHOCesBvAKsgYBAFzBy7cEuU7CdKGCQ==",
-  "notes": "Auto-Boost más seguro, optimizaciones de Windows 11 revisadas y renovación visual completa"
+  "version": "9.33",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.33/RGOptimizer_Setup.exe",
+  "sig": "7wThzVR/QNMpPhQO8IfO0ptUlTn9CqEDNw7sG/zyNJs6wSjE9KpMvr3GuadN/x4riNDmX6X8XjyQWQUuYzXKAg==",
+  "notes": "Nueva identidad RG Visual Systems azul-cian, interfaz reconstruida, textos simplificados y mejoras completas para Windows 11 y Auto-Boost."
 }
