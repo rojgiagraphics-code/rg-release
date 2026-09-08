@@ -1,6 +1,6 @@
 {
-  "version": "9.35",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.35/RGOptimizer_Setup.exe",
-  "sig": "yqhCo7IL+HvBZLyuQ3lIt9gXGghJP20Hjndr5P6J0+i2K6d3EK8tqERG+VGE9hdCQtqPnsXkTPVwFa4I0EX2CA==",
-  "notes": "Auto-Boost adaptativo por hardware; preparación y reparación segura de FiveM; diagnóstico rediseñado; desinstalación profunda con respaldo y cuarentena; limpiador ampliado; carga instantánea de ajustes; Driver Booster disponible en Utilidades."
+  "version": "9.36",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.36/RGOptimizer_Setup.exe",
+  "sig": "nn99BUxWNo6XGhSeV3yZLz8JQtXe1vKfariNlmEQAzXR1LVUq6eG0uxzfuj91gU1TVga0ttLfdai+7f/4Z8PCA==",
+  "notes": "Desinstalador con iconos, nombres y tamaños de verdad. El botón «Optimizar mi PC» aplica 43 ajustes en vez de 5. La pantalla de ajustes abre en 4 s en vez de 8. Avisos en su sitio y sin robar el foco al juego. Abrir con el programa en la bandeja enseña la ventana."
 }
