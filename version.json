@@ -1,6 +1,6 @@
 {
-  "version": "9.38",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.38/RGOptimizer_Setup.exe",
-  "sig": "bUBOVpKHOxQcJH9jw9+v01MiPh1GY8pEpNbt4F6HN8Db4o1K+xvIJDiVWqnIpY/XGN3ApPTDYTvJ20NWIotvBw==",
-  "notes": "El boton Solucionar ya no se calla cuando no puede hacer nada: si el aviso no trae arreglo o el motor aun esta cargando, lo dice. Y deja rastro en el registro de la sesion, para que un arreglo que no llega a ejecutarse no se confunda con uno que no funciona."
+  "version": "9.39",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.39/RGOptimizer_Setup.exe",
+  "sig": "rU72f/e5l/ZVpXalJsWnkStE1nRdk3XVP7EOcT1YYNiRp4C2cCIFZNnNm6VqKMsFjhvkIYZv89qMX8ePvJa2Bg==",
+  "notes": "Un boton «Arreglar todo» sobre la lista de averias: las aplica de golpe en vez de ir fila por fila. Las que cambian el equipo -VBS, Hyper-V, plan de energia- siguen preguntando una por una con su motivo delante, y las que necesitan licencia se cuentan aparte sin cortar el resto."
 }
