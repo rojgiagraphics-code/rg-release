@@ -1,6 +1,6 @@
 {
-  "version": "9.41",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.41/RGOptimizer_Setup.exe",
-  "sig": "05mg0YmTThPZdpDC03YtAndSs3gQXwt6a9JoUSQ0Boi52F+c85PjkgmWtXC4ehi7lt0F8hsISIDIsgW+wn/cCA==",
-  "notes": "Los dispositivos que Windows encuentra y no consigue arrancar -codigos 10 y 43- ya se pueden reiniciar desde el diagnostico, sin tocar su driver. El codigo 28 sigue siendo manual: ahi falta instalar el controlador y eso no lo hace un optimizador."
+  "version": "9.42",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.42/RGOptimizer_Setup.exe",
+  "sig": "9YliJsXTKmIHqIshYdqPLm9UIZlpxB3w/K9R6dwDGExhsxfslxPeWGdhSX0Eln6BIg4JArm0ffwsRAQMCFVaCw==",
+  "notes": "El registro de la sesion se escribia en el vacio salvo al aplicar un perfil: todo lo demas se perdia. Y un dispositivo reiniciado ya no se da por arreglado con el codigo de salida de pnputil, que dice «correcto» aunque el aparato vuelva a caerse: ahora se comprueba como quedo."
 }
