@@ -1,6 +1,6 @@
 {
-  "version": "9.39",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.39/RGOptimizer_Setup.exe",
-  "sig": "rU72f/e5l/ZVpXalJsWnkStE1nRdk3XVP7EOcT1YYNiRp4C2cCIFZNnNm6VqKMsFjhvkIYZv89qMX8ePvJa2Bg==",
-  "notes": "Un boton «Arreglar todo» sobre la lista de averias: las aplica de golpe en vez de ir fila por fila. Las que cambian el equipo -VBS, Hyper-V, plan de energia- siguen preguntando una por una con su motivo delante, y las que necesitan licencia se cuentan aparte sin cortar el resto."
+  "version": "9.40",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.40/RGOptimizer_Setup.exe",
+  "sig": "EN+urHplHUbkjfEgran96WZ5stt8rBLGNNqKKVW7NtLDgJeAd2yFHl+pka3pJOhTk66lcDZrfS4gllyqOWfRDQ==",
+  "notes": "El medidor A/B ya no ofrece ajustes que no pueden mover un fotograma: de 97 a 60, fuera privacidad, apariencia y debloat. Y el cuadro del final ya no dice «Medición terminada» cuando la medición se interrumpio."
 }
