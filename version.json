@@ -1,6 +1,6 @@
 {
-  "version": "9.42",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.42/RGOptimizer_Setup.exe",
-  "sig": "9YliJsXTKmIHqIshYdqPLm9UIZlpxB3w/K9R6dwDGExhsxfslxPeWGdhSX0Eln6BIg4JArm0ffwsRAQMCFVaCw==",
-  "notes": "El registro de la sesion se escribia en el vacio salvo al aplicar un perfil: todo lo demas se perdia. Y un dispositivo reiniciado ya no se da por arreglado con el codigo de salida de pnputil, que dice «correcto» aunque el aparato vuelva a caerse: ahora se comprueba como quedo."
+  "version": "9.43",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.43/RGOptimizer_Setup.exe",
+  "sig": "jaO1tXSVbhhEy9tL8Yp2omMqh9Am0KjK8iK6BPvS+cwkelB8DTlllTOYIcQX+vtRYEXTHuGBumtYGx/NuWewAA==",
+  "notes": "Rediseno visual completo: paleta unificada con RG Blue como unico acento, tema y los ocho dialogos y siete paginas alineados, y el sistema visual documentado en el proyecto para que no dependa de recursos que solo existen en un equipo. Los programas del Arranque salen con su nombre de verdad en vez del identificador del registro."
 }
