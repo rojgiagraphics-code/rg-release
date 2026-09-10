@@ -1,6 +1,6 @@
 {
-  "version": "9.37",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.37/RGOptimizer_Setup.exe",
-  "sig": "EHHTYJx3JAB1aK7Kdm067ZVhbyHzs3Cq72fX9l5xYxxUHu8IiBKlB8AmXmQZQIPfLENVDC647h7dk8dFnU4oDA==",
-  "notes": "FiveM ya no se cierra solo a la media hora: el ajuste de pagefile ponia un techo del que Windows no podia pasar. Nueve ajustes que se quitaban a medias ahora se quitan enteros, entre ellos el reloj del driver de video. Los efectos visuales surten efecto sin cerrar sesion. Y los ajustes que se comen la bateria o llenan el disco ya no se aplican solos en el equipo equivocado."
+  "version": "9.38",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.38/RGOptimizer_Setup.exe",
+  "sig": "bUBOVpKHOxQcJH9jw9+v01MiPh1GY8pEpNbt4F6HN8Db4o1K+xvIJDiVWqnIpY/XGN3ApPTDYTvJ20NWIotvBw==",
+  "notes": "El boton Solucionar ya no se calla cuando no puede hacer nada: si el aviso no trae arreglo o el motor aun esta cargando, lo dice. Y deja rastro en el registro de la sesion, para que un arreglo que no llega a ejecutarse no se confunda con uno que no funciona."
 }
