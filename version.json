@@ -1,6 +1,6 @@
 {
-  "version": "9.43",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.43/RGOptimizer_Setup.exe",
-  "sig": "jaO1tXSVbhhEy9tL8Yp2omMqh9Am0KjK8iK6BPvS+cwkelB8DTlllTOYIcQX+vtRYEXTHuGBumtYGx/NuWewAA==",
-  "notes": "Rediseno visual completo: paleta unificada con RG Blue como unico acento, tema y los ocho dialogos y siete paginas alineados, y el sistema visual documentado en el proyecto para que no dependa de recursos que solo existen en un equipo. Los programas del Arranque salen con su nombre de verdad en vez del identificador del registro."
+  "version": "9.44",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.44/RGOptimizer_Setup.exe",
+  "sig": "14YRgLo+yxBUkwwfqMF0UY5DBKY4EFEqN1CFpPDOh+EN3IH/nhUcFKkr4bt3xMxiK+l7pCCnbTH3k030vNGbBQ==",
+  "notes": "El foco del teclado ya no pinta «Ajustes» y «Acerca de» como si fueran la seccion abierta: abren una ventana, no son paginas, y al cerrarla se quedaban encendidos en el menu. Ahora el foco se marca con un borde fino, en los catorce botones de la aplicacion que compartian el fallo."
 }
