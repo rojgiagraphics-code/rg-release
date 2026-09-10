@@ -1,6 +1,6 @@
 {
-  "version": "9.44",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.44/RGOptimizer_Setup.exe",
-  "sig": "14YRgLo+yxBUkwwfqMF0UY5DBKY4EFEqN1CFpPDOh+EN3IH/nhUcFKkr4bt3xMxiK+l7pCCnbTH3k030vNGbBQ==",
-  "notes": "El foco del teclado ya no pinta «Ajustes» y «Acerca de» como si fueran la seccion abierta: abren una ventana, no son paginas, y al cerrarla se quedaban encendidos en el menu. Ahora el foco se marca con un borde fino, en los catorce botones de la aplicacion que compartian el fallo."
+  "version": "9.45",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.45/RGOptimizer_Setup.exe",
+  "sig": "SAxpmKnzaWVliptuh3iFix1Ux3bCNlAHgJ/Mfvnbqr/rzNUxXzqposTnO7xWVApWhCkegj+dQ/9yer94AnkRBw==",
+  "notes": "Inicio podia quedarse ensenando un diagnostico viejo -«Modo Juego APAGADO» con el ajuste ya puesto- y la lista de la derecha pintada dos veces. Los dos eran el mismo fallo: dos diagnosticos corriendo a la vez. Ahora solo corre uno."
 }
