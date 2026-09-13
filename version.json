@@ -1,6 +1,6 @@
 {
-  "version": "9.46",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.46/RGOptimizer_Setup.exe",
-  "sig": "plGmTq9YG21HZz5CUdmSOmmh0Uj1pXVgIB5iDkFiRJUMwYVtrFX9LznwbOX9qZ56byPYcv+4H5iRYcfV4/YvAQ==",
-  "notes": "El debloat apagaba bthserv y BTAGService -el Bluetooth de Windows- y TabletInputService -el teclado en pantalla-. Ninguno da FPS y su ausencia se nota en el acto: sin mando inalambrico, sin cascos, y en un portatil tactil sin poder escribir. Fuera de la lista y protegidos para que no vuelvan."
+  "version": "9.47",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.47/RGOptimizer_Setup.exe",
+  "sig": "+bDGMY3VB4s6hJY0iMAb1Xlvb9+5iV8LePgd5wh6FsqH64txbcWJGNkbF0A0cyWAmDS+FrA144tB/eIQ5XWxDg==",
+  "notes": "Optimizacion y boost adaptativos, respaldos comprobados y correcciones de diagnostico y reparacion de Windows"
 }
