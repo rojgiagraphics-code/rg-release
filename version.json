@@ -1,6 +1,6 @@
 {
-  "version": "9.48",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.48/RGOptimizer_Setup.exe",
-  "sig": "6l4uR7qu00MEtezwvr2YShYLxqa7qrMTLMZrjBgS4S0ibjC2AxQ4fSiDqKbShA9wcSvn5815Tn2RSfmVUgwtDA==",
-  "notes": "No mas PC sin WiFi ni Bluetooth: la pausa de Windows Update ya no bloquea drivers, y el Bluetooth, la zona movil y los solucionadores de Windows salen del debloat"
+  "version": "9.49",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.49/RGOptimizer_Setup.exe",
+  "sig": "QbTJo+zyRswEMNLsfEoXpmNhFuw6Sg5mvweySQ8vkmGXzt+S5X6PcGwzd5ou7259QV0FW0mMTJMGd8X2+VgmBw==",
+  "notes": "Vaciar la cuarentena del desinstalador, aviso para marcar Modo Streaming si grabas o transmites, y arreglos de honestidad: Arreglar todo ya no dice que arreglo lo que no pudo"
 }
