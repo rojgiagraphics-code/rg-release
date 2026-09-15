@@ -1,6 +1,6 @@
 {
-  "version": "9.47",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.47/RGOptimizer_Setup.exe",
-  "sig": "+bDGMY3VB4s6hJY0iMAb1Xlvb9+5iV8LePgd5wh6FsqH64txbcWJGNkbF0A0cyWAmDS+FrA144tB/eIQ5XWxDg==",
-  "notes": "Optimizacion y boost adaptativos, respaldos comprobados y correcciones de diagnostico y reparacion de Windows"
+  "version": "9.48",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.48/RGOptimizer_Setup.exe",
+  "sig": "6l4uR7qu00MEtezwvr2YShYLxqa7qrMTLMZrjBgS4S0ibjC2AxQ4fSiDqKbShA9wcSvn5815Tn2RSfmVUgwtDA==",
+  "notes": "No mas PC sin WiFi ni Bluetooth: la pausa de Windows Update ya no bloquea drivers, y el Bluetooth, la zona movil y los solucionadores de Windows salen del debloat"
 }
