@@ -1,6 +1,6 @@
 {
-  "version": "9.50",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.50/RGOptimizer_Setup.exe",
-  "sig": "7w/2Hy2be/wkuuhC0KRGdWylkjjZWurdPTkYlN5toHckczrZzDSAs8TmiuMVnjc4OhEERsXbNztT7w0wuWzWAQ==",
-  "notes": "Los ajustes se leen en castellano, y seis sitios donde el programa daba algo por bueno sin haberlo comprobado"
+  "version": "9.52",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.52/RGOptimizer_Setup.exe",
+  "sig": "BZkcefxl6VNF1JrhnhFWaYvCWuMT8VR4fwWoYPERNX7O+6CeTOlWmu7bdQUcMoBTdEQO5WFaBXAyjuBSPOaYCg==",
+  "notes": "Auditoria completa: revertir devuelve el estado original, el motor de optimizacion valida lo que aplica y el Auto-Boost no deja rastro"
 }
