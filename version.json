@@ -1,6 +1,6 @@
 {
-  "version": "9.52",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.52/RGOptimizer_Setup.exe",
-  "sig": "BZkcefxl6VNF1JrhnhFWaYvCWuMT8VR4fwWoYPERNX7O+6CeTOlWmu7bdQUcMoBTdEQO5WFaBXAyjuBSPOaYCg==",
-  "notes": "Auditoria completa: revertir devuelve el estado original, el motor de optimizacion valida lo que aplica y el Auto-Boost no deja rastro"
+  "version": "9.53",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.53/RGOptimizer_Setup.exe",
+  "sig": "9JLzrja3ijxbsZ/CvyajyUsw+FvMpyp2TZxk3sXAQ3dKreIbN+OfVlG2jS/zEc0N/9sAfnsp8fVpa7gQmaNSDg==",
+  "notes": "La red se deja en paz: siete ajustes de controlador retirados, servicios de conexion protegidos y revertir devuelve solo lo que apunto"
 }
