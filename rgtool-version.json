@@ -1,6 +1,6 @@
 {
-  "version": "1.5",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-v1.5/RGTOOL_Setup.exe",
-  "sig": "Wa8RFQlWvYeqmeQ0\u002BDUoo08INwPQvM7Ae5k/Bti1mHXQDJeCXHPi\u002BeSLdRt/7OQJ7ShtiX4GmhVGmdmkgjOwDg==",
-  "notes": "Props en carpetas: cada arma de un pack con sus camos y efectos, y el prop sobre el pj con su animaci\u00F3n. Borrar del disco en todos los apartados, con deshacer. Modelar m\u00E1s r\u00E1pido y con atajos como Blender: v\u00E9rtices, aristas y F para cerrar huecos. Pintar: copiar y mover al momento, la livery a su tama\u00F1o y el zoom hacia el rat\u00F3n. Mapas: Optimizar esconde lo de detr\u00E1s de las puertas cerradas. Revisar m\u00E1s r\u00E1pido y con menos falsas alarmas."
+  "version": "1.6",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-v1.6/RGTOOL_Setup.exe",
+  "sig": "BePwR8XYzuR1cO1US5ilJfPQUMVHw8reyrKXG32I76g\u002B/kLN6mBeEfdJC5eCNRKStBwhkVkB24jKdJKuUmpiDw==",
+  "notes": "Mapas: Revisar y Arreglar hacen que la puerta cerrada de cada MLO esconda lo de detr\u00E1s (y lo quitan en las de cristal). Mundo: abrir un hueco en un edificio del juego para meter un MLO, con el canto relleno y la colisi\u00F3n y los oclusores recortados; Revisar avisa cuando un edificio del juego se mete en un MLO."
 }
