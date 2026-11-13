@@ -1,0 +1,6 @@
+{
+  "version": "1.5",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-v1.5/RGTOOL_Setup.exe",
+  "sig": "Wa8RFQlWvYeqmeQ0\u002BDUoo08INwPQvM7Ae5k/Bti1mHXQDJeCXHPi\u002BeSLdRt/7OQJ7ShtiX4GmhVGmdmkgjOwDg==",
+  "notes": "Props en carpetas: cada arma de un pack con sus camos y efectos, y el prop sobre el pj con su animaci\u00F3n. Borrar del disco en todos los apartados, con deshacer. Modelar m\u00E1s r\u00E1pido y con atajos como Blender: v\u00E9rtices, aristas y F para cerrar huecos. Pintar: copiar y mover al momento, la livery a su tama\u00F1o y el zoom hacia el rat\u00F3n. Mapas: Optimizar esconde lo de detr\u00E1s de las puertas cerradas. Revisar m\u00E1s r\u00E1pido y con menos falsas alarmas."
+}
