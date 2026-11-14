@@ -1,6 +1,6 @@
 {
-  "version": "1.7",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-v1.7/RGTOOL_Setup.exe",
-  "sig": "PTMlVeLRRVOzunA9VhI5gCRSrtwlSnGSiGKQ2yya3oq8zDXLSC9RAx\u002BDb2Z5go3ap8lsxoBR/7wRStt0JnlKBQ==",
-  "notes": "Pintar como Photoshop: atajos, Ctrl\u002BZ tambi\u00E9n del tama\u00F1o, pincel por di\u00E1metro y el mapa UV m\u00E1s r\u00E1pido; la UV completa de los carros solo con lo de fuera. Modelar abre los carros con los cristales da\u00F1ados (antes sal\u00EDa \u00ABInsufficient memory\u00BB). Desde esta versi\u00F3n RGTOOL pide una licencia para cada PC."
+  "version": "1.8",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-v1.8/RGTOOL_Setup.exe",
+  "sig": "39bPjkxcFXogeTFHceBaetp7hnI3GwNpgsLBmNX\u002BGCaCRJmQmGRmEgNqzEsg3Y43iAE0SYsiJLat1V8kpqdbAw==",
+  "notes": "Ropa solo toma ropa del freemode: los peds, los props de otros peds y las piezas de mapas ya no entran. \u00ABJuntar repetidas\u00BB junta tambi\u00E9n los props con todas sus texturas y dice de d\u00F3nde saldr\u00E1n al construir (ya incluye lo que hac\u00EDa \u00ABFusionar props\u00BB). La prenda ya no se ve encimada sobre el ped, el visor de Peds cambia de ped al momento y el primer visor 3D abre sin tir\u00F3n. Animaciones m\u00E1s suaves, pantalla de carga nueva y la actualizaci\u00F3n ense\u00F1a lo que lleva descargado."
 }
