@@ -1,6 +1,6 @@
 {
-  "version": "1.6",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-v1.6/RGTOOL_Setup.exe",
-  "sig": "BePwR8XYzuR1cO1US5ilJfPQUMVHw8reyrKXG32I76g\u002B/kLN6mBeEfdJC5eCNRKStBwhkVkB24jKdJKuUmpiDw==",
-  "notes": "Mapas: Revisar y Arreglar hacen que la puerta cerrada de cada MLO esconda lo de detr\u00E1s (y lo quitan en las de cristal). Mundo: abrir un hueco en un edificio del juego para meter un MLO, con el canto relleno y la colisi\u00F3n y los oclusores recortados; Revisar avisa cuando un edificio del juego se mete en un MLO."
+  "version": "1.7",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-v1.7/RGTOOL_Setup.exe",
+  "sig": "PTMlVeLRRVOzunA9VhI5gCRSrtwlSnGSiGKQ2yya3oq8zDXLSC9RAx\u002BDb2Z5go3ap8lsxoBR/7wRStt0JnlKBQ==",
+  "notes": "Pintar como Photoshop: atajos, Ctrl\u002BZ tambi\u00E9n del tama\u00F1o, pincel por di\u00E1metro y el mapa UV m\u00E1s r\u00E1pido; la UV completa de los carros solo con lo de fuera. Modelar abre los carros con los cristales da\u00F1ados (antes sal\u00EDa \u00ABInsufficient memory\u00BB). Desde esta versi\u00F3n RGTOOL pide una licencia para cada PC."
 }
