@@ -1,6 +1,6 @@
 {
-  "version": "1.8",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-v1.8/RGTOOL_Setup.exe",
-  "sig": "39bPjkxcFXogeTFHceBaetp7hnI3GwNpgsLBmNX\u002BGCaCRJmQmGRmEgNqzEsg3Y43iAE0SYsiJLat1V8kpqdbAw==",
-  "notes": "Ropa solo toma ropa del freemode: los peds, los props de otros peds y las piezas de mapas ya no entran. \u00ABJuntar repetidas\u00BB junta tambi\u00E9n los props con todas sus texturas y dice de d\u00F3nde saldr\u00E1n al construir (ya incluye lo que hac\u00EDa \u00ABFusionar props\u00BB). La prenda ya no se ve encimada sobre el ped, el visor de Peds cambia de ped al momento y el primer visor 3D abre sin tir\u00F3n. Animaciones m\u00E1s suaves, pantalla de carga nueva y la actualizaci\u00F3n ense\u00F1a lo que lleva descargado."
+  "version": "1.9",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-v1.9/RGTOOL_Setup.exe",
+  "sig": "\u002Bs6TBjbmQv2Ia4meRPmUoEgTZJiU2Nkly6oD9r\u002BSEQMrDVYZB2xoceIV12QYlf2xi\u002Bf2RfYxUDQ7OUX75aPFBg==",
+  "notes": "Nada se para con proyectos grandes: un proyecto de Ropa con 47.000 prendas abre en unos segundos sin congelar la ventana, y Armas, Dependencias y Revisar responden al momento con miles de archivos. El ped de mujer ya sale en Ropa, la rodilla y el muslo se doblan bien al andar (sin escal\u00F3n en el pantal\u00F3n) y \u00ABJuntar\u00BB ya no pide carpeta."
 }
