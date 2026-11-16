@@ -1,6 +1,6 @@
 {
-  "version": "9.54",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v9.54/RGOptimizer_Setup.exe",
-  "sig": "hiZqKxEnpPmbPjBKx0kKl8Efg4jVb/sygse+GrOLd76FeZn1AUoZgFdg2NmvmzcsDv1MDrIRx+r2M+PhgPRqAw==",
-  "notes": "Liberar RAM vacia de verdad y esta en la bandeja; cinco mejoras de Windows en el boton automatico y cinco reparaciones nuevas"
+  "version": "10.0",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v10.0/RGOptimizer_Setup.exe",
+  "sig": "LpU3cHoUY5NIyk328xPddX81aQkPfNfD3avHmioWlOYqx2MEJQktuYrrz57yb4wEN4ab87Na/EDUjACmGWmCBA==",
+  "notes": "Programa rehecho: 6 secciones, piel nueva, Inicio con tu equipo en 3D y avisos más limpios. Ahora pide tu licencia al abrir."
 }
