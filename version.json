@@ -1,6 +1,6 @@
 {
-  "version": "10.0",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v10.0/RGOptimizer_Setup.exe",
-  "sig": "LpU3cHoUY5NIyk328xPddX81aQkPfNfD3avHmioWlOYqx2MEJQktuYrrz57yb4wEN4ab87Na/EDUjACmGWmCBA==",
-  "notes": "Programa rehecho: 6 secciones, piel nueva, Inicio con tu equipo en 3D y avisos más limpios. Ahora pide tu licencia al abrir."
+  "version": "10.1",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v10.1/RGOptimizer_Setup.exe",
+  "sig": "Kb3vv0c4o9cy2oJvf11AjzzUeQsVZI9w9vJwilk/sS73ml/bNly5e6fE0BmoVYQCiY+Ic9VMLgwI8pu5TQuuDQ==",
+  "notes": "Los cuadros llevan su sombra entera y se apagan al cerrarse, y el programa arranca sin saltos."
 }
