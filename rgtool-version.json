@@ -1,6 +1,6 @@
 {
-  "version": "1.9",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-v1.9/RGTOOL_Setup.exe",
-  "sig": "\u002Bs6TBjbmQv2Ia4meRPmUoEgTZJiU2Nkly6oD9r\u002BSEQMrDVYZB2xoceIV12QYlf2xi\u002Bf2RfYxUDQ7OUX75aPFBg==",
-  "notes": "Nada se para con proyectos grandes: un proyecto de Ropa con 47.000 prendas abre en unos segundos sin congelar la ventana, y Armas, Dependencias y Revisar responden al momento con miles de archivos. El ped de mujer ya sale en Ropa, la rodilla y el muslo se doblan bien al andar (sin escal\u00F3n en el pantal\u00F3n) y \u00ABJuntar\u00BB ya no pide carpeta."
+  "version": "2.0",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-v2.0/RGTOOL_Setup.exe",
+  "sig": "hZHMKmPUf57/bYhkwR7JXUOi5ppYlfip217MWMUicHZGTM7vvcrSlsEvtYz3IWCsI18FCcZEvsQ3pJDgPPfUCQ==",
+  "notes": "Beta. Dise\u00F1o nuevo: sin barra lateral; los m\u00F3dulos van en el men\u00FA \u2630 de arriba a la izquierda (Ctrl\u002B1\u20269 para saltar) y el logo RG en 3D sale en la barra, la carga y la licencia. Cada pantalla vac\u00EDa ense\u00F1a solo su primer paso en una tarjeta al centro, hay una sola fila de botones (lo menos usado en \u00ABM\u00E1s\u00BB) y un solo bot\u00F3n resaltado: el siguiente paso. Los textos ya dicen \u00AB1 prenda\u00BB, no \u00AB1 prenda(s)\u00BB."
 }
