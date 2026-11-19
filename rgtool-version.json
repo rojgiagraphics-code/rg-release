@@ -1,6 +1,6 @@
 {
-  "version": "2.2",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-v2.2/RGTOOL_Setup.exe",
-  "sig": "DdxT6uSuNgrdg5ZIKxpTjxqmMZjLtqC\u002BXYzg38dUBx47ZS3cNflH1NbiL/NZVUHk5WhJWhmgWCaA89HESs3wDg==",
-  "notes": "RGTOOL 2.2: las 14 mejoras. Copiloto que hace (plan simulado, se aplica solo lo marcado), recetas firmadas, robot de pruebas dentro del juego (solo servidor de Prueba), mapa de calor del streaming en el Mundo, aviso de crasheo antes de reiniciar, foto de cat\u00E1logo en un clic (estudio, 360 en MP4/GIF y ficha), el asistente recuerda y conoce el m\u00F3dulo, buscador que entiende (por significado y por imagen), huella invisible por comprador, Pincel 3D sobre el modelo, texturas con IA dentro de Pintar (ComfyUI local), juego en vivo de ida y vuelta (manejo, colores, extras, librea y props; solo Prueba; puente v4), Prop desde foto sin salir de RGTOOL y Editar como Blender (soldar, coser, extruir, insetar, cuchillo y m\u00E1s)."
+  "version": "2.2.1",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-v2.2.1/RGTOOL_Setup.exe",
+  "sig": "iXxc98XmfS/biy/T31Y/mhvUFCDFW4YYTiVg6x3EwKagCIEH\u002BY8gXmnRa/RZ2Ym0kzGPlxLiK3\u002BCMq886QX4BA==",
+  "notes": "RGTOOL 2.2.1: Mapas \u203A Revisar arregla en vez de dar error. \u00ABDarle grosor\u00BB acepta la pared ya arreglada; si un arreglo falla, los dem\u00E1s siguen y queda en el Historial; los interiores con la caja en 0 ya no se recalculan (dejaban el MLO sin cargar); no se borran las DLC_ITYP_REQUEST del fxmanifest; \u00ABAplicar arreglos\u00BB ya no hace solo lo que hay que mirar a mano."
 }
