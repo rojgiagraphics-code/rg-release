@@ -1,6 +1,6 @@
 {
-  "version": "2.2.1",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-v2.2.1/RGTOOL_Setup.exe",
-  "sig": "iXxc98XmfS/biy/T31Y/mhvUFCDFW4YYTiVg6x3EwKagCIEH\u002BY8gXmnRa/RZ2Ym0kzGPlxLiK3\u002BCMq886QX4BA==",
-  "notes": "RGTOOL 2.2.1: Mapas \u203A Revisar arregla en vez de dar error. \u00ABDarle grosor\u00BB acepta la pared ya arreglada; si un arreglo falla, los dem\u00E1s siguen y queda en el Historial; los interiores con la caja en 0 ya no se recalculan (dejaban el MLO sin cargar); no se borran las DLC_ITYP_REQUEST del fxmanifest; \u00ABAplicar arreglos\u00BB ya no hace solo lo que hay que mirar a mano."
+  "version": "2.2.2",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-v2.2.2/RGTOOL_Setup.exe",
+  "sig": "KMsJe78oP53fFu585ozcrrbSKZ4FrbxmdJespW74hn418fleFoG2c5B0MKABJayik0OU4QCCK7QLgx2drz15BQ==",
+  "notes": "Mapas: \u00ABAplicar arreglos\u00BB pone solo el tope de lo de fuera de las salas donde cambia algo; el optimizador respeta lo del autor, el escrow y las copias de RGTOOL."
 }
