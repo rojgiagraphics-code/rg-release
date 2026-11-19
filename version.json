@@ -1,6 +1,6 @@
 {
-  "version": "10.1",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v10.1/RGOptimizer_Setup.exe",
-  "sig": "Kb3vv0c4o9cy2oJvf11AjzzUeQsVZI9w9vJwilk/sS73ml/bNly5e6fE0BmoVYQCiY+Ic9VMLgwI8pu5TQuuDQ==",
-  "notes": "Los cuadros llevan su sombra entera y se apagan al cerrarse, y el programa arranca sin saltos."
+  "version": "10.2",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v10.2/RGOptimizer_Setup.exe",
+  "sig": "1j39ARTFJXaT0WBRWAUW+eBHuwZKQxGnxAuOsXpidSTe52sPhtAMj0R3l5w8zdo+LC5TusqHkMoPcaMOqg88Bg==",
+  "notes": "Licencias desde el bot de Discord y correcciones de estabilidad"
 }
