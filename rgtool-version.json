@@ -1,6 +1,6 @@
 {
-  "version": "2.2.2",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-v2.2.2/RGTOOL_Setup.exe",
-  "sig": "KMsJe78oP53fFu585ozcrrbSKZ4FrbxmdJespW74hn418fleFoG2c5B0MKABJayik0OU4QCCK7QLgx2drz15BQ==",
-  "notes": "Mapas: \u00ABAplicar arreglos\u00BB pone solo el tope de lo de fuera de las salas donde cambia algo; el optimizador respeta lo del autor, el escrow y las copias de RGTOOL."
+  "version": "2.2.3",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-v2.2.3/RGTOOL_Setup.exe",
+  "sig": "5gRMXGrLWK3\u002BwLZRRTs431sFjSLWSxvR7f69GZq728zrFyUunV2LuyWgf7/z4oWSttzDc6UW\u002BTOsfPAfctHcBw==",
+  "notes": "Mapas: \u00ABArreglar todo\u00BB ya no agranda la caja de un prop por un nivel de detalle que nunca se ve (portones de energy_libertycustoms)"
 }
