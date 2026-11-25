@@ -1,8 +1,8 @@
 {
-  "version": "1.2",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgblender-v1.2/RGBlender_Setup.exe",
-  "sha256": "bca09f8b872c42af7e7c414317ef54e9bdc674f70c9974d70509b4d0087c2097",
-  "sig": "K0o9eTb5Gb0tJZPn5/yzpcI/fmb9jVLqdyTX24qeWJ2Wx8q8WBHBo//izhZPcxohKWp9WV8DuyhNiNOaiJ4SBg==",
-  "sig2": "IqnTR7MlXJAQBRFI+s5l+86R0hSw0w3jtJX7tVaorqnkn2EfYDe/NyL+NgRHZLiq+oWeoyQ7KqepMuAKWDxHDw==",
-  "notes": "Arreglos: Transferir Pesos deja 4 huesos por vertice; Ver en el visor (UV scroll) devuelve el rango; Validar en Auto se pone al dia solo; Dejar listo deja Ctrl+Z; DDS de 4096 con mucha menos memoria; Materiales no se para si falla un paso; blender_mcp va apagado en instalaciones nuevas."
+  "version": "1.3",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgblender-v1.3/RGBlender_Setup.exe",
+  "sha256": "91759c3e791eb694779d072ba37178473e6d165dadae9b33da44de343982cdc8",
+  "sig": "rTGGGlp7DGA1BcpbWcAwMeBxZy2MP/tQpFr/szAHG8BIVZUzdtRwzTKBt01tItK9+SMUWg0x+VtLuJtslmdSBg==",
+  "sig2": "Two/3e4ESguSSEYbu/0Mv+cEV5Lm9/9tNfNwAuCF6VB44o8fFHEKGn2VQonkXYk/xMqP9Rv/zuNrMAQPQjtJCA==",
+  "notes": "Limpieza: Actualizar Addons ya no depende del disco E: (busca en tu carpeta de usuario); fuera el respaldo viejo de Sollumz 2.8.3 y codigo sin uso. Sin cambios en lo que hacen los addons."
 }
