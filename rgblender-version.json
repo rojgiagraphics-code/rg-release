@@ -1,8 +1,8 @@
 {
-  "version": "1.1",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgblender-v1.1/RGBlender_Setup.exe",
-  "sha256": "c32aa9a9ae0795e70a5c16051ca64926df1427ad144a496f472201922cfe7e33",
-  "sig": "+ZTM8JIx5cdWjsMyu6fg+x1YuTYuFURyx+zfmDJIHskuyldhRYKAQ6Ii14bB/zZ3G6D4VaMzEF7bsYD1p64gAw==",
-  "sig2": "W+oD1edqxNGdhWvnwFqiH8qTjowZ1HIXB5RV27hn95V6JgSTBv+eOWkZkWsJ96Mrl5HLu6/j4WmSebTYpIW0CQ==",
-  "notes": "Actualizaciones solas: Blender te avisa cuando hay una version nueva y se instala con un clic, sin tocar tus preferencias. FV Validar: «Enseñar cuáles» te lleva a Modo Edicion con lo que esta mal seleccionado. Arreglos: el Historial ya no puede colgar Blender al guardar o cerrar, y «Apartar» ya no pisa ficheros."
+  "version": "1.2",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgblender-v1.2/RGBlender_Setup.exe",
+  "sha256": "bca09f8b872c42af7e7c414317ef54e9bdc674f70c9974d70509b4d0087c2097",
+  "sig": "K0o9eTb5Gb0tJZPn5/yzpcI/fmb9jVLqdyTX24qeWJ2Wx8q8WBHBo//izhZPcxohKWp9WV8DuyhNiNOaiJ4SBg==",
+  "sig2": "IqnTR7MlXJAQBRFI+s5l+86R0hSw0w3jtJX7tVaorqnkn2EfYDe/NyL+NgRHZLiq+oWeoyQ7KqepMuAKWDxHDw==",
+  "notes": "Arreglos: Transferir Pesos deja 4 huesos por vertice; Ver en el visor (UV scroll) devuelve el rango; Validar en Auto se pone al dia solo; Dejar listo deja Ctrl+Z; DDS de 4096 con mucha menos memoria; Materiales no se para si falla un paso; blender_mcp va apagado en instalaciones nuevas."
 }
