@@ -1,0 +1,8 @@
+{
+  "version": "1.0.6",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgmotion-v1.0.6/RGMotion_Setup.exe",
+  "sha256": "a3422e37373a467212a80641c77773d3d67f102cd95c5811bab5890e68b11f77",
+  "size": 62897943,
+  "notes": "Desde esta versión RG Motion se actualiza solo. Trae pantalla de carga al abrir, grabar los juegos con tu micrófono, la barra de arriba en islas (con opción de que las ventanas pasen por detrás), esquinas iguales en todo y arreglos.",
+  "sig": "DP5EGF/m7peoU/8/Nh7gtqeKJwynMYySplcMpEkWIiGva3yIuii5XuVRpnx+mdlf/IEx9v13fz0oFTsfb0jJAA=="
+}
