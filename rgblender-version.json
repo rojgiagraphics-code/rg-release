@@ -1,0 +1,8 @@
+{
+  "version": "1.1",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgblender-v1.1/RGBlender_Setup.exe",
+  "sha256": "c32aa9a9ae0795e70a5c16051ca64926df1427ad144a496f472201922cfe7e33",
+  "sig": "+ZTM8JIx5cdWjsMyu6fg+x1YuTYuFURyx+zfmDJIHskuyldhRYKAQ6Ii14bB/zZ3G6D4VaMzEF7bsYD1p64gAw==",
+  "sig2": "W+oD1edqxNGdhWvnwFqiH8qTjowZ1HIXB5RV27hn95V6JgSTBv+eOWkZkWsJ96Mrl5HLu6/j4WmSebTYpIW0CQ==",
+  "notes": "Actualizaciones solas: Blender te avisa cuando hay una version nueva y se instala con un clic, sin tocar tus preferencias. FV Validar: «Enseñar cuáles» te lleva a Modo Edicion con lo que esta mal seleccionado. Arreglos: el Historial ya no puede colgar Blender al guardar o cerrar, y «Apartar» ya no pisa ficheros."
+}
