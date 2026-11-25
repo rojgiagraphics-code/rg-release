@@ -1,8 +1,8 @@
 {
-  "version": "2.2.4",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-v2.2.4/RGTOOL_Setup.exe",
-  "sig": "c9LzCDgirk2EAr5TvsH7inVqjjOLDe9BPftFVcWgLLaoKPlGiGVMjkoe3/oLzoO3QTaY6pV7LHs3UM93IVr\u002BCg==",
-  "notes": "Props por pack en su propio .ymt (sin tope de 255), construir todo el grupo o uno solo a otra carpeta en cada apartado y los arreglos de la auditoria.",
-  "sha256": "4fa3fba8d65a22035f3bf3b5488cf78f8739a9a86b4fc07f592eaae0438784ee",
-  "sig2": "rFkfL5JhfybK/xnhonoHJv9mGQfKEOihXgKMA2fEeYWCefJPaXv8NmC\u002BbtaY90R2j9a5HRwjarSF5RLGoBZGCQ=="
+  "version": "2.2.5",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-v2.2.5/RGTOOL_Setup.exe",
+  "sig": "D7kA2DGkl3jkfrgTLtKCGvCvhZ/H\u002BICOP9qTZaJWOmVLp8gRpjPdqi3hps4zHuX2OSVb7I70mnL\u002BocSTUNAWAw==",
+  "notes": "El Doctor de Peds y los arreglos de armas, mapas y mods usan la carpeta de GTA V que pusiste en Ajustes.",
+  "sha256": "b25c5c28718cf85f1e08ed1507ddc2cc0734c229795317a86add577c91cb596b",
+  "sig2": "Dy31TzpX5gWG9m2rVdQQcKhEGY1ZaVnvvuobJuISLPKyvIawumXbF\u002Bo2reZdi5NJrMqqSMbK0F1oH07OTg\u002BwDA=="
 }
