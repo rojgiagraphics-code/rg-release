@@ -1,6 +1,6 @@
 {
-  "version": "10.3",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v10.3/RGOptimizer_Setup.exe",
-  "sig": "zL1nr5q8u7y1RpTOrgs2r0FfmekMNowOcYy2DYl7uYhu9Y6wJEeEzZFcnrIe68AbPe8wIkxg3KVqAkAo6MKPAQ==",
-  "notes": "Revertir más seguro, VALORANT con Vanguard y licencia más clara"
+  "version": "10.4",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v10.4/RGOptimizer_Setup.exe",
+  "sig": "PqDVPf1Yy91o83rz5BsEo9ybijpxbKFQZKUlb0UKPFEAwzl6C3ecRerNNBzlVmLWHBtFI72d97b9VxCMkNMdBw==",
+  "notes": "Licencia solo al entrar, carga de 5 s y esquinas más redondas"
 }
