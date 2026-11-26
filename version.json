@@ -1,6 +1,6 @@
 {
-  "version": "10.5",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v10.5/RGOptimizer_Setup.exe",
-  "sig": "6H7nVQk8vIyCua9oArMaHK97h2mitlWmsgo+ASa/ja41LQ2HuO1QBBFGpbkApDwWC/I5VpeCiuMIsXk6u1cfAA==",
-  "notes": "Revertir más completo, juegos con antitrampas protegidos y soporte de RG OS"
+  "version": "10.6",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v10.6/RGOptimizer_Setup.exe",
+  "sig": "ZD7fSKL815nv0LWGLLsMl6r6q4E18tyWQXVZMY+0a5IoCaeEwsGfyKRzRKj7p030tkUEHMSAgDf8C95lbeJcBw==",
+  "notes": "Mouse y aim: medir el mouse, sensibilidad para todos los juegos, Raw Accel dentro y entrenador"
 }
