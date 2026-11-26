@@ -1,6 +1,6 @@
 {
-  "version": "10.6",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v10.6/RGOptimizer_Setup.exe",
-  "sig": "ZD7fSKL815nv0LWGLLsMl6r6q4E18tyWQXVZMY+0a5IoCaeEwsGfyKRzRKj7p030tkUEHMSAgDf8C95lbeJcBw==",
-  "notes": "Mouse y aim: medir el mouse, sensibilidad para todos los juegos, Raw Accel dentro y entrenador"
+  "version": "10.7",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v10.7/RGOptimizer_Setup.exe",
+  "sig": "3r8NiXHvjK7gF/J6z+1fRTCZlouTUo3kXMHicKjf8QjK5Gt+pkmNVMuxZ+hRWJlkRZCqTJz98hshzwhH0Qr0AQ==",
+  "notes": "RG Accel y curva a tu medida, Auto-Boost para emuladores, revisar el delay, drivers por pieza y aviso si Windows quita tus ajustes"
 }
