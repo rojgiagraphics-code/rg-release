@@ -1,8 +1,8 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgmotion-v1.0.6/RGMotion_Setup.exe",
-  "sha256": "a3422e37373a467212a80641c77773d3d67f102cd95c5811bab5890e68b11f77",
-  "size": 62897943,
-  "notes": "Desde esta versión RG Motion se actualiza solo. Trae pantalla de carga al abrir, grabar los juegos con tu micrófono, la barra de arriba en islas (con opción de que las ventanas pasen por detrás), esquinas iguales en todo y arreglos.",
-  "sig": "DP5EGF/m7peoU/8/Nh7gtqeKJwynMYySplcMpEkWIiGva3yIuii5XuVRpnx+mdlf/IEx9v13fz0oFTsfb0jJAA=="
+  "version": "1.0.7",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgmotion-v1.0.7/RGMotion_Setup.exe",
+  "sha256": "567dc85ddc4ba80d7e9dc8e7606b1d2a337d613d2d66abe85bd39fc46f2646fa",
+  "size": 62928218,
+  "notes": "Barra de Windows a tu gusto: iconos a la izquierda o en el centro, fondo transparente (Windows 10) y «se esconde sola» por separado, para quien no use el dock. «Finalizar tarea» del dock cierra también los juegos. Dock más estable con un juego en otra pantalla. Arreglos del grabador, de la bandeja con el Explorador colgado y muchos más. Si tienes una versión anterior a la 1.0.6, bájala una vez desde #descargas.",
+  "sig": "g0bIKNhQWiVjLCaEX9wwmB9ZPBKbFgm+GG+ycb6xVe+Jg2hYzBKUFPX9Gs18Q2by5rN+vJKf90AOfTfcjnKUBQ=="
 }
