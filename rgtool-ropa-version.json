@@ -1,8 +1,8 @@
 {
-  "version": "2.2.4",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-ropa-v2.2.4/RGTOOL_Ropa_Setup.exe",
-  "sig": "e4UrsoUW1hnPWmfCbFIxQIE89na05rPPFpI7Zm2a8wdpaugqghdNhYA5HxmmtwbnlbJW8mzNYsnxqnc7MvOJCA==",
-  "notes": "Props por pack en su propio .ymt (sin tope de 255), construir todo el grupo o una prenda sola a otra carpeta y los arreglos de la auditoria.",
-  "sha256": "bf52b68822d555c34047cdfde07291355817948e979897575ab68e069edc102b",
-  "sig2": "vvZ4GoI1l13NfLtSsiKaqc0xCfY2EloWtj3tcXpYK2tPOTX6GeEFJR\u002BKEOWHF\u002BSFVIfDTtyOZgGIKgOh3MMkBw=="
+  "version": "2.2.6",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-ropa-v2.2.6/RGTOOL_Ropa_Setup.exe",
+  "sig": "7qpIEOYLMkQNqB2y2b0ApNJqKy085g27ULFsXWI7/0V/00Cxo7FPwndrBUF/UVy6Ge51xmT2KvYSkUNq3dXoDw==",
+  "notes": "Ropa sin congelones con packs grandes, buscador que mira hueco, archivo y grupo, esquinas nuevas, carga de 5 s y arreglos de la revisi\u00F3n",
+  "sha256": "4b573fe7bf020c5c38e8f489fafee7b71ec387e457929ce65f6d84294008bcc6",
+  "sig2": "ftHbu4VFLB1NOZiieuXtjK1ZADcaDHySNrF1cl5iQfTo5s4Wg8qJudhP5ieoVaOxZ4Z77aYHIrqcQbjtbMM9AA=="
 }
