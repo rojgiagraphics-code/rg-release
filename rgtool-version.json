@@ -1,8 +1,8 @@
 {
-  "version": "2.2.5",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-v2.2.5/RGTOOL_Setup.exe",
-  "sig": "D7kA2DGkl3jkfrgTLtKCGvCvhZ/H\u002BICOP9qTZaJWOmVLp8gRpjPdqi3hps4zHuX2OSVb7I70mnL\u002BocSTUNAWAw==",
-  "notes": "El Doctor de Peds y los arreglos de armas, mapas y mods usan la carpeta de GTA V que pusiste en Ajustes.",
-  "sha256": "b25c5c28718cf85f1e08ed1507ddc2cc0734c229795317a86add577c91cb596b",
-  "sig2": "Dy31TzpX5gWG9m2rVdQQcKhEGY1ZaVnvvuobJuISLPKyvIawumXbF\u002Bo2reZdi5NJrMqqSMbK0F1oH07OTg\u002BwDA=="
+  "version": "2.2.6",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgtool-v2.2.6/RGTOOL_Setup.exe",
+  "sig": "Qy8hnmpzSiampT7bC2lI/QULFAmiAMjyM0IncUUfUsLwgeJzNybWTBOIn/\u002BX9t96XRxwbZxU0T\u002BeqtHL4M0AAA==",
+  "notes": "Filtros que funcionan y releer solo lo tocado en todos los apartados, Carros con el disco entero y cach\u00E9, sin congelones, esquinas nuevas, carga de 5 s y 11 arreglos de la revisi\u00F3n",
+  "sha256": "2e65d82875778505116e7c15f2d74ac55920c9bb6edaf6f8616fa17f6d6b20d8",
+  "sig2": "kH/zHBc\u002BvPIDAu4Nih1Px6h9KvQsi8RaPDZPGLY51qbiaZXgSwmUYgTpH7qagYlaTixhiDxzg/GUng3vpkDjAA=="
 }
