@@ -1,8 +1,8 @@
 {
-  "version": "1.0.8",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgmotion-v1.0.8/RGMotion_Setup.exe",
-  "sha256": "817e00713d185dab84350a081f03d6b0ffe52cd6cce9d5d8e78a5c5bd923e35c",
-  "size": 63007854,
-  "notes": "Grabador: hasta 5 clips, cada uno con su duración y su tecla, y graba siempre, también jugando (quien lo tenía en «Solo con un juego abierto» pasa a «Siempre»; nueva opción «Siempre, menos jugando»). Recortar clips: principio y final, como clip nuevo o en el mismo, y elegir si se queda el sonido del juego, el del micrófono o los dos. El sonido vuelve solo si cambias de altavoz o se desconecta. Arregladas las grabaciones que no se guardaban con silencio. En Aplicaciones, botón para suspender, apagar o reiniciar el PC; el dock ya no tiene «Acceso rápido». Si tienes una versión anterior a la 1.0.6, bájala una vez desde #descargas.",
-  "sig": "WmXk8iwzm2O4boqVUyCpkRWCukoukfQvkKtxhnqEK9v1myanBMDApBTQlgsCoVI76hRJYNQCr/2eVSCzLycqBg=="
+  "version": "1.0.9",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgmotion-v1.0.9/RGMotion_Setup.exe",
+  "sha256": "558ed79a431aef097ce48102a53450ed8d531ac66d85e0ab201b7388605206d5",
+  "size": 63020606,
+  "notes": "En Ajustes › General, nueva sección «Actualizaciones»: dice si hay una versión nueva, con lo que trae, y la instalas con «Actualizar…»; si no, «Al día». Debajo del logo sale tu versión. Con un juego abierto, el aviso de actualización sale en cuanto cambias a otra ventana. Si tienes una versión anterior a la 1.0.6, bájala una vez desde #descargas.",
+  "sig": "JPvezaYAz2o6zOkL/BRsl7yVyWSmhhrDNX07GkddDjgPbUMkHlkiipFn6D55+urEH7eyDxz4EmczyckZ5kZCAQ=="
 }
