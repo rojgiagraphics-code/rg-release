@@ -1,6 +1,7 @@
 {
-  "version": "10.7",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v10.7/RGOptimizer_Setup.exe",
-  "sig": "3r8NiXHvjK7gF/J6z+1fRTCZlouTUo3kXMHicKjf8QjK5Gt+pkmNVMuxZ+hRWJlkRZCqTJz98hshzwhH0Qr0AQ==",
-  "notes": "RG Accel y curva a tu medida, Auto-Boost para emuladores, revisar el delay, drivers por pieza y aviso si Windows quita tus ajustes"
+  "version": "10.8",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/v10.8/RGOptimizer_Setup.exe",
+  "sha256": "428ca05bd60c791599432e4e9c3b4c8a214d34a08958d00e00b2649b1d278f6d",
+  "sig": "RJhuBVqulw05WhAB7uIAnHVeA0nl38JdLjeEYE/xj1+PHo3yhX7buWD1IZyJC2BzGBEyBB6Krq8FcVt0yoSTAg==",
+  "notes": "Lo que RG dice que arregló, ahora lo comprueba: Diagnóstico, plan de energía, hibernación y limpieza. RG Accel y el desinstalador esperan su turno, y «Revertir todo» deja el mouse como estaba"
 }
