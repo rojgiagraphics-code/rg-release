@@ -1,8 +1,8 @@
 {
-  "version": "1.0.7",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgmotion-v1.0.7/RGMotion_Setup.exe",
-  "sha256": "567dc85ddc4ba80d7e9dc8e7606b1d2a337d613d2d66abe85bd39fc46f2646fa",
-  "size": 62928218,
-  "notes": "Barra de Windows a tu gusto: iconos a la izquierda o en el centro, fondo transparente (Windows 10) y «se esconde sola» por separado, para quien no use el dock. «Finalizar tarea» del dock cierra también los juegos. Dock más estable con un juego en otra pantalla. Arreglos del grabador, de la bandeja con el Explorador colgado y muchos más. Si tienes una versión anterior a la 1.0.6, bájala una vez desde #descargas.",
-  "sig": "g0bIKNhQWiVjLCaEX9wwmB9ZPBKbFgm+GG+ycb6xVe+Jg2hYzBKUFPX9Gs18Q2by5rN+vJKf90AOfTfcjnKUBQ=="
+  "version": "1.0.8",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgmotion-v1.0.8/RGMotion_Setup.exe",
+  "sha256": "817e00713d185dab84350a081f03d6b0ffe52cd6cce9d5d8e78a5c5bd923e35c",
+  "size": 63007854,
+  "notes": "Grabador: hasta 5 clips, cada uno con su duración y su tecla, y graba siempre, también jugando (quien lo tenía en «Solo con un juego abierto» pasa a «Siempre»; nueva opción «Siempre, menos jugando»). Recortar clips: principio y final, como clip nuevo o en el mismo, y elegir si se queda el sonido del juego, el del micrófono o los dos. El sonido vuelve solo si cambias de altavoz o se desconecta. Arregladas las grabaciones que no se guardaban con silencio. En Aplicaciones, botón para suspender, apagar o reiniciar el PC; el dock ya no tiene «Acceso rápido». Si tienes una versión anterior a la 1.0.6, bájala una vez desde #descargas.",
+  "sig": "WmXk8iwzm2O4boqVUyCpkRWCukoukfQvkKtxhnqEK9v1myanBMDApBTQlgsCoVI76hRJYNQCr/2eVSCzLycqBg=="
 }
