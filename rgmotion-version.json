@@ -1,8 +1,8 @@
 {
-  "version": "1.0.12",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgmotion-v1.0.12/RGMotion_Setup.exe",
-  "sha256": "a5d1509d1950837e9013f9b00d5d0d14c21694755f2fee81e1913736648e2307",
-  "size": 63071187,
-  "notes": "Jugando, el aviso del clip vuelve a ser un cuadro pequeño con la foto del clip (sin botones, unos 3 s). En Ajustes › Grabador los clips van en dos apartados, «Clips con Discord» y «Clips sin Discord (limpios)», cada uno con su «Añadir clip»; cada clip lleva su duración, su tecla, el micrófono y un botón para pasarlo al otro apartado.",
-  "sig": "A2eZlObkxqyB/cvVxNU4eQPbML48SqVAGlX7cRry1HSwsIPW2vM8fMR9ZGlGFE3Y34HoxTFYk5VT3qu12Jq2BQ=="
+  "version": "1.0.13",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgmotion-v1.0.13/RGMotion_Setup.exe",
+  "sha256": "4c55566cc08daddc2a3ad50ceb9771daf625e00560562f9c1b12f443869e45b9",
+  "size": 63066647,
+  "notes": "Al guardar un clip jugando vuelve a salir el cuadro pequeño con la foto del clip, también con la barra de arriba a la vista (en la 1.0.12 salía solo el texto).",
+  "sig": "wG2P+Uq1U0hi+tgy+vHFQ6L6N79L7Cgau9SW70lPcJrL8j5zOI7iMXRwbN5WU4CUrU0nefmjmVkPun5H2W5SCg=="
 }
