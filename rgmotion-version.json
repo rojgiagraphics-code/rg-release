@@ -1,8 +1,8 @@
 {
-  "version": "1.0.9",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgmotion-v1.0.9/RGMotion_Setup.exe",
-  "sha256": "558ed79a431aef097ce48102a53450ed8d531ac66d85e0ab201b7388605206d5",
-  "size": 63020606,
-  "notes": "En Ajustes › General, nueva sección «Actualizaciones»: dice si hay una versión nueva, con lo que trae, y la instalas con «Actualizar…»; si no, «Al día». Debajo del logo sale tu versión. Con un juego abierto, el aviso de actualización sale en cuanto cambias a otra ventana. Si tienes una versión anterior a la 1.0.6, bájala una vez desde #descargas.",
-  "sig": "JPvezaYAz2o6zOkL/BRsl7yVyWSmhhrDNX07GkddDjgPbUMkHlkiipFn6D55+urEH7eyDxz4EmczyckZ5kZCAQ=="
+  "version": "1.0.10",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgmotion-v1.0.10/RGMotion_Setup.exe",
+  "sha256": "d172023717e0eb9ff53abf49e79aeed6404394b6081640588119d0bcc014e2a6",
+  "size": 63036787,
+  "notes": "Clips seguidos: cada clip empieza donde acabó el anterior (si vuelves a pulsar enseguida, «Ya guardado»). Mientras juegas, el aviso del clip es más pequeño y suena al guardar (en Windows 11 el sonido no queda en el clip). Ya puedes poner cualquier tecla sola para clipear. Todo se cambia en Ajustes › Grabador.",
+  "sig": "qju4XeMZm5x/r+w8/bddSXl5HZTjPPVftkW69RshTE7nQ4xHwu89xALsra/9B7hNXSXIX1wDcNOVhH/xnG8hAg=="
 }
