@@ -1,8 +1,8 @@
 {
-  "version": "1.0.10",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgmotion-v1.0.10/RGMotion_Setup.exe",
-  "sha256": "d172023717e0eb9ff53abf49e79aeed6404394b6081640588119d0bcc014e2a6",
-  "size": 63036787,
-  "notes": "Clips seguidos: cada clip empieza donde acabó el anterior (si vuelves a pulsar enseguida, «Ya guardado»). Mientras juegas, el aviso del clip es más pequeño y suena al guardar (en Windows 11 el sonido no queda en el clip). Ya puedes poner cualquier tecla sola para clipear. Todo se cambia en Ajustes › Grabador.",
-  "sig": "qju4XeMZm5x/r+w8/bddSXl5HZTjPPVftkW69RshTE7nQ4xHwu89xALsra/9B7hNXSXIX1wDcNOVhH/xnG8hAg=="
+  "version": "1.0.11",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgmotion-v1.0.11/RGMotion_Setup.exe",
+  "sha256": "fb7c20d5d2ba1b732e66eb960e267fc1deec43a1bb76f0fdb9f912203cc101f7",
+  "size": 63064217,
+  "notes": "Cada tecla de clip y la de grabar eligen si llevan Discord y tu micrófono (Ajustes › Grabador): un clip limpio, sin el chat de Discord, cuando tú quieras (Windows 11). El micrófono solo se abre si alguna tecla lo lleva. Arreglo: al parar, el último trozo del sonido del PC ya se guarda.",
+  "sig": "toW9T0OWhtkYbjBy31qxhHmfcSIa6G0ohVvchR2xrsj7bExn27yrr9SdHQ4vjVImDETdBNlKTAYWDbpEfOBvAg=="
 }
