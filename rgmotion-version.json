@@ -1,8 +1,8 @@
 {
-  "version": "1.0.11",
-  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgmotion-v1.0.11/RGMotion_Setup.exe",
-  "sha256": "fb7c20d5d2ba1b732e66eb960e267fc1deec43a1bb76f0fdb9f912203cc101f7",
-  "size": 63064217,
-  "notes": "Cada tecla de clip y la de grabar eligen si llevan Discord y tu micrófono (Ajustes › Grabador): un clip limpio, sin el chat de Discord, cuando tú quieras (Windows 11). El micrófono solo se abre si alguna tecla lo lleva. Arreglo: al parar, el último trozo del sonido del PC ya se guarda.",
-  "sig": "toW9T0OWhtkYbjBy31qxhHmfcSIa6G0ohVvchR2xrsj7bExn27yrr9SdHQ4vjVImDETdBNlKTAYWDbpEfOBvAg=="
+  "version": "1.0.12",
+  "url": "https://github.com/rojgiagraphics-code/rg-release/releases/download/rgmotion-v1.0.12/RGMotion_Setup.exe",
+  "sha256": "a5d1509d1950837e9013f9b00d5d0d14c21694755f2fee81e1913736648e2307",
+  "size": 63071187,
+  "notes": "Jugando, el aviso del clip vuelve a ser un cuadro pequeño con la foto del clip (sin botones, unos 3 s). En Ajustes › Grabador los clips van en dos apartados, «Clips con Discord» y «Clips sin Discord (limpios)», cada uno con su «Añadir clip»; cada clip lleva su duración, su tecla, el micrófono y un botón para pasarlo al otro apartado.",
+  "sig": "A2eZlObkxqyB/cvVxNU4eQPbML48SqVAGlX7cRry1HSwsIPW2vM8fMR9ZGlGFE3Y34HoxTFYk5VT3qu12Jq2BQ=="
 }
